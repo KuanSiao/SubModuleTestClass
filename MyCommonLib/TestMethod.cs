@@ -14,6 +14,7 @@
 
             return $"You are {age} years old.";
         }
+        public int SetCount(int count) => count++;
     }
 }
 
